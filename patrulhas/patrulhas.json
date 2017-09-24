@@ -3,6 +3,10 @@
     "nome": "Tirano",
     "cor": "#CC9900"
 }, {
+    "id": "tds",
+    "nome": "TDS",
+    "cor": "#006699"
+}, {
     "id": "titano",
     "nome": "Titano",
     "cor": "#006666"
@@ -10,8 +14,4 @@
     "id": "triceraptor",
     "nome": "TRI",
     "cor": "#841F27"
-}, {
-    "id": "tds",
-    "nome": "TDS",
-    "cor": "#006699"
 }]
