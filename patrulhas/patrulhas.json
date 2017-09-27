@@ -1,17 +1,18 @@
-[{
-    "id": "tirano",
-    "nome": "Tirano",
-    "cor": "#006699"
-}, {
-    "id": "tds",
-    "nome": "TDS",
-    "cor": "#841F27"
-}, {
-    "id": "titano",
-    "nome": "Titano",
-    "cor": "#006666"
-}, {
-    "id": "triceraptor",
-    "nome": "TRI",
-    "cor": "#CC9900"
-}]
+{
+    "tirano": {
+        "nome": "Tirano",
+        "cor": "#006699"
+    },
+    "tds": {
+        "nome": "TDS",
+        "cor": "#841F27"
+    },
+    "titano": {
+        "nome": "Titano",
+        "cor": "#006666"
+    },
+    "triceraptor": {
+        "nome": "TRI",
+        "cor": "#CC9900"
+    }
+}
