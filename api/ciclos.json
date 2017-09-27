@@ -2,16 +2,14 @@
   "2016-10": {
     "nome": "Outubro 2016",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 10,
           "livrosPatrulha": 23,
           "materialPatrulha": 38,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 6,
               "vestuario": 1,
@@ -23,8 +21,7 @@
               "penalidade": 1,
               "atividadeExterna": 5
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 7,
               "vestuario": 4,
@@ -36,8 +33,7 @@
               "penalidade": 0,
               "atividadeExterna": 1
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 8,
               "presenca": 7,
               "vestuario": 9,
@@ -49,8 +45,7 @@
               "penalidade": 7,
               "atividadeExterna": 5
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 2,
               "presenca": 10,
               "vestuario": 1,
@@ -62,8 +57,7 @@
               "penalidade": 5,
               "atividadeExterna": 2
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 4,
               "presenca": 8,
               "vestuario": 4,
@@ -75,18 +69,16 @@
               "penalidade": 6,
               "atividadeExterna": 5
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 14,
           "livrosPatrulha": 4,
           "materialPatrulha": 41,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 7,
               "presenca": 5,
               "vestuario": 7,
@@ -98,8 +90,7 @@
               "penalidade": 10,
               "atividadeExterna": 3
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 2,
               "presenca": 0,
               "vestuario": 2,
@@ -111,8 +102,7 @@
               "penalidade": 4,
               "atividadeExterna": 4
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 7,
               "presenca": 8,
               "vestuario": 2,
@@ -124,8 +114,7 @@
               "penalidade": 7,
               "atividadeExterna": 6
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 2,
               "presenca": 7,
               "vestuario": 1,
@@ -137,8 +126,7 @@
               "penalidade": 10,
               "atividadeExterna": 5
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 8,
               "presenca": 3,
               "vestuario": 6,
@@ -150,18 +138,16 @@
               "penalidade": 4,
               "atividadeExterna": 5
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 8,
           "livrosPatrulha": 37,
           "materialPatrulha": 5,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 2,
               "presenca": 2,
               "vestuario": 5,
@@ -173,8 +159,7 @@
               "penalidade": 7,
               "atividadeExterna": 7
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 1,
               "vestuario": 1,
@@ -186,8 +171,7 @@
               "penalidade": 1,
               "atividadeExterna": 1
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 6,
               "vestuario": 8,
@@ -199,8 +183,7 @@
               "penalidade": 2,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 10,
               "presenca": 9,
               "vestuario": 4,
@@ -212,8 +195,7 @@
               "penalidade": 8,
               "atividadeExterna": 3
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 10,
               "presenca": 4,
               "vestuario": 5,
@@ -225,18 +207,16 @@
               "penalidade": 8,
               "atividadeExterna": 9
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 15,
           "livrosPatrulha": 38,
           "materialPatrulha": 42,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 10,
               "presenca": 1,
               "vestuario": 7,
@@ -248,8 +228,7 @@
               "penalidade": 7,
               "atividadeExterna": 2
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 2,
               "presenca": 6,
               "vestuario": 8,
@@ -261,8 +240,7 @@
               "penalidade": 6,
               "atividadeExterna": 7
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 8,
               "presenca": 3,
               "vestuario": 4,
@@ -274,8 +252,7 @@
               "penalidade": 9,
               "atividadeExterna": 9
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 7,
               "presenca": 7,
               "vestuario": 5,
@@ -287,8 +264,7 @@
               "penalidade": 10,
               "atividadeExterna": 1
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 5,
               "presenca": 9,
               "vestuario": 1,
@@ -300,26 +276,22 @@
               "penalidade": 4,
               "atividadeExterna": 5
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2016-11": {
     "nome": "Novembro 2016",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 36,
           "livrosPatrulha": 31,
           "materialPatrulha": 6,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 5,
               "presenca": 8,
               "vestuario": 2,
@@ -331,8 +303,7 @@
               "penalidade": 4,
               "atividadeExterna": 7
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 3,
               "presenca": 10,
               "vestuario": 6,
@@ -344,8 +315,7 @@
               "penalidade": 3,
               "atividadeExterna": 4
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 4,
               "presenca": 6,
               "vestuario": 5,
@@ -357,8 +327,7 @@
               "penalidade": 8,
               "atividadeExterna": 9
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 10,
               "presenca": 4,
               "vestuario": 7,
@@ -370,8 +339,7 @@
               "penalidade": 8,
               "atividadeExterna": 5
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 5,
               "presenca": 4,
               "vestuario": 4,
@@ -383,18 +351,16 @@
               "penalidade": 8,
               "atividadeExterna": 10
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 5,
           "livrosPatrulha": 32,
           "materialPatrulha": 3,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 2,
               "presenca": 2,
               "vestuario": 9,
@@ -406,8 +372,7 @@
               "penalidade": 8,
               "atividadeExterna": 6
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 8,
               "presenca": 6,
               "vestuario": 7,
@@ -419,8 +384,7 @@
               "penalidade": 5,
               "atividadeExterna": 10
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 9,
               "presenca": 8,
               "vestuario": 4,
@@ -432,8 +396,7 @@
               "penalidade": 5,
               "atividadeExterna": 6
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 7,
               "presenca": 2,
               "vestuario": 1,
@@ -445,8 +408,7 @@
               "penalidade": 2,
               "atividadeExterna": 10
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 2,
               "presenca": 1,
               "vestuario": 7,
@@ -458,18 +420,16 @@
               "penalidade": 7,
               "atividadeExterna": 7
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 37,
           "livrosPatrulha": 17,
           "materialPatrulha": 8,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 3,
               "vestuario": 5,
@@ -481,8 +441,7 @@
               "penalidade": 4,
               "atividadeExterna": 9
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 4,
               "presenca": 9,
               "vestuario": 4,
@@ -494,8 +453,7 @@
               "penalidade": 6,
               "atividadeExterna": 8
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 6,
               "presenca": 4,
               "vestuario": 9,
@@ -507,8 +465,7 @@
               "penalidade": 8,
               "atividadeExterna": 7
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 1,
               "presenca": 9,
               "vestuario": 0,
@@ -520,8 +477,7 @@
               "penalidade": 6,
               "atividadeExterna": 10
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 7,
               "presenca": 2,
               "vestuario": 4,
@@ -533,18 +489,16 @@
               "penalidade": 1,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 21,
           "livrosPatrulha": 34,
           "materialPatrulha": 29,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 1,
               "presenca": 6,
               "vestuario": 3,
@@ -556,8 +510,7 @@
               "penalidade": 1,
               "atividadeExterna": 2
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 5,
               "vestuario": 10,
@@ -569,8 +522,7 @@
               "penalidade": 7,
               "atividadeExterna": 7
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 6,
               "presenca": 2,
               "vestuario": 10,
@@ -582,8 +534,7 @@
               "penalidade": 4,
               "atividadeExterna": 7
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 5,
               "presenca": 1,
               "vestuario": 10,
@@ -595,8 +546,7 @@
               "penalidade": 7,
               "atividadeExterna": 7
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 8,
               "presenca": 3,
               "vestuario": 6,
@@ -608,26 +558,22 @@
               "penalidade": 4,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2016-12": {
     "nome": "Dezembro 2016",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 17,
           "livrosPatrulha": 23,
           "materialPatrulha": 3,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 4,
               "presenca": 4,
               "vestuario": 5,
@@ -639,8 +585,7 @@
               "penalidade": 8,
               "atividadeExterna": 8
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 4,
               "presenca": 1,
               "vestuario": 1,
@@ -652,8 +597,7 @@
               "penalidade": 1,
               "atividadeExterna": 7
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 6,
               "presenca": 0,
               "vestuario": 7,
@@ -665,8 +609,7 @@
               "penalidade": 9,
               "atividadeExterna": 5
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 3,
               "presenca": 3,
               "vestuario": 0,
@@ -678,8 +621,7 @@
               "penalidade": 2,
               "atividadeExterna": 2
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 8,
               "presenca": 4,
               "vestuario": 1,
@@ -691,18 +633,16 @@
               "penalidade": 9,
               "atividadeExterna": 8
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 26,
           "livrosPatrulha": 50,
           "materialPatrulha": 42,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 3,
               "presenca": 8,
               "vestuario": 3,
@@ -714,8 +654,7 @@
               "penalidade": 8,
               "atividadeExterna": 9
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 1,
               "presenca": 10,
               "vestuario": 6,
@@ -727,8 +666,7 @@
               "penalidade": 1,
               "atividadeExterna": 4
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 5,
               "presenca": 8,
               "vestuario": 7,
@@ -740,8 +678,7 @@
               "penalidade": 9,
               "atividadeExterna": 1
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 3,
               "presenca": 7,
               "vestuario": 9,
@@ -753,8 +690,7 @@
               "penalidade": 5,
               "atividadeExterna": 3
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 7,
               "presenca": 8,
               "vestuario": 0,
@@ -766,18 +702,16 @@
               "penalidade": 4,
               "atividadeExterna": 5
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 21,
           "livrosPatrulha": 38,
           "materialPatrulha": 33,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 2,
               "vestuario": 5,
@@ -789,8 +723,7 @@
               "penalidade": 6,
               "atividadeExterna": 5
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 0,
               "presenca": 4,
               "vestuario": 0,
@@ -802,8 +735,7 @@
               "penalidade": 6,
               "atividadeExterna": 3
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 3,
               "presenca": 9,
               "vestuario": 0,
@@ -815,8 +747,7 @@
               "penalidade": 10,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 5,
               "presenca": 7,
               "vestuario": 6,
@@ -828,8 +759,7 @@
               "penalidade": 2,
               "atividadeExterna": 3
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 3,
               "presenca": 0,
               "vestuario": 3,
@@ -841,18 +771,16 @@
               "penalidade": 3,
               "atividadeExterna": 4
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 38,
           "livrosPatrulha": 33,
           "materialPatrulha": 38,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 3,
               "vestuario": 5,
@@ -864,8 +792,7 @@
               "penalidade": 10,
               "atividadeExterna": 5
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 7,
               "presenca": 9,
               "vestuario": 6,
@@ -877,8 +804,7 @@
               "penalidade": 5,
               "atividadeExterna": 8
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 4,
               "presenca": 0,
               "vestuario": 4,
@@ -890,8 +816,7 @@
               "penalidade": 6,
               "atividadeExterna": 10
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 6,
               "presenca": 8,
               "vestuario": 5,
@@ -903,8 +828,7 @@
               "penalidade": 2,
               "atividadeExterna": 2
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 2,
               "presenca": 2,
               "vestuario": 4,
@@ -916,26 +840,22 @@
               "penalidade": 9,
               "atividadeExterna": 2
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-01": {
     "nome": "Janeiro 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 15,
           "livrosPatrulha": 12,
           "materialPatrulha": 36,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 1,
               "presenca": 8,
               "vestuario": 4,
@@ -947,8 +867,7 @@
               "penalidade": 0,
               "atividadeExterna": 5
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 6,
               "presenca": 5,
               "vestuario": 6,
@@ -960,8 +879,7 @@
               "penalidade": 1,
               "atividadeExterna": 8
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 3,
               "presenca": 5,
               "vestuario": 0,
@@ -973,8 +891,7 @@
               "penalidade": 1,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 7,
               "presenca": 9,
               "vestuario": 4,
@@ -986,8 +903,7 @@
               "penalidade": 10,
               "atividadeExterna": 4
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 1,
               "presenca": 0,
               "vestuario": 6,
@@ -999,18 +915,16 @@
               "penalidade": 8,
               "atividadeExterna": 8
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 16,
           "livrosPatrulha": 5,
           "materialPatrulha": 36,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 8,
               "presenca": 7,
               "vestuario": 5,
@@ -1022,8 +936,7 @@
               "penalidade": 0,
               "atividadeExterna": 7
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 3,
               "presenca": 9,
               "vestuario": 9,
@@ -1035,8 +948,7 @@
               "penalidade": 4,
               "atividadeExterna": 8
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 10,
               "vestuario": 9,
@@ -1048,8 +960,7 @@
               "penalidade": 3,
               "atividadeExterna": 8
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 3,
               "presenca": 4,
               "vestuario": 7,
@@ -1061,8 +972,7 @@
               "penalidade": 7,
               "atividadeExterna": 5
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 1,
               "presenca": 5,
               "vestuario": 1,
@@ -1074,18 +984,16 @@
               "penalidade": 7,
               "atividadeExterna": 6
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 17,
           "livrosPatrulha": 10,
           "materialPatrulha": 21,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 8,
               "vestuario": 7,
@@ -1097,8 +1005,7 @@
               "penalidade": 0,
               "atividadeExterna": 2
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 2,
               "presenca": 7,
               "vestuario": 9,
@@ -1110,8 +1017,7 @@
               "penalidade": 1,
               "atividadeExterna": 2
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 10,
               "presenca": 8,
               "vestuario": 2,
@@ -1123,8 +1029,7 @@
               "penalidade": 3,
               "atividadeExterna": 7
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 8,
               "presenca": 2,
               "vestuario": 0,
@@ -1136,8 +1041,7 @@
               "penalidade": 2,
               "atividadeExterna": 0
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 7,
               "presenca": 9,
               "vestuario": 3,
@@ -1149,18 +1053,16 @@
               "penalidade": 9,
               "atividadeExterna": 7
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 31,
           "livrosPatrulha": 38,
           "materialPatrulha": 9,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 7,
               "presenca": 9,
               "vestuario": 8,
@@ -1172,8 +1074,7 @@
               "penalidade": 7,
               "atividadeExterna": 3
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 0,
               "presenca": 6,
               "vestuario": 1,
@@ -1185,8 +1086,7 @@
               "penalidade": 3,
               "atividadeExterna": 5
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 8,
               "presenca": 1,
               "vestuario": 9,
@@ -1198,8 +1098,7 @@
               "penalidade": 0,
               "atividadeExterna": 7
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 5,
               "presenca": 4,
               "vestuario": 1,
@@ -1211,8 +1110,7 @@
               "penalidade": 6,
               "atividadeExterna": 1
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 9,
               "presenca": 6,
               "vestuario": 7,
@@ -1224,26 +1122,22 @@
               "penalidade": 1,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-02": {
     "nome": "Fevereiro 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 43,
           "livrosPatrulha": 6,
           "materialPatrulha": 29,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 6,
               "presenca": 9,
               "vestuario": 10,
@@ -1255,8 +1149,7 @@
               "penalidade": 7,
               "atividadeExterna": 1
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 8,
               "presenca": 3,
               "vestuario": 1,
@@ -1268,8 +1161,7 @@
               "penalidade": 5,
               "atividadeExterna": 9
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 4,
               "presenca": 6,
               "vestuario": 3,
@@ -1281,8 +1173,7 @@
               "penalidade": 1,
               "atividadeExterna": 6
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 5,
               "presenca": 2,
               "vestuario": 3,
@@ -1294,8 +1185,7 @@
               "penalidade": 8,
               "atividadeExterna": 8
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 6,
               "presenca": 4,
               "vestuario": 3,
@@ -1307,18 +1197,16 @@
               "penalidade": 9,
               "atividadeExterna": 7
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 45,
           "livrosPatrulha": 29,
           "materialPatrulha": 13,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 0,
               "presenca": 6,
               "vestuario": 3,
@@ -1330,8 +1218,7 @@
               "penalidade": 7,
               "atividadeExterna": 5
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 9,
               "presenca": 5,
               "vestuario": 8,
@@ -1343,8 +1230,7 @@
               "penalidade": 9,
               "atividadeExterna": 10
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 8,
               "presenca": 5,
               "vestuario": 2,
@@ -1356,8 +1242,7 @@
               "penalidade": 8,
               "atividadeExterna": 8
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 5,
               "presenca": 4,
               "vestuario": 3,
@@ -1369,8 +1254,7 @@
               "penalidade": 4,
               "atividadeExterna": 2
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 2,
               "presenca": 6,
               "vestuario": 5,
@@ -1382,18 +1266,16 @@
               "penalidade": 9,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 3,
           "livrosPatrulha": 16,
           "materialPatrulha": 25,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 5,
               "vestuario": 6,
@@ -1405,8 +1287,7 @@
               "penalidade": 3,
               "atividadeExterna": 1
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 0,
               "presenca": 9,
               "vestuario": 4,
@@ -1418,8 +1299,7 @@
               "penalidade": 3,
               "atividadeExterna": 9
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 8,
               "presenca": 2,
               "vestuario": 1,
@@ -1431,8 +1311,7 @@
               "penalidade": 6,
               "atividadeExterna": 9
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 6,
               "presenca": 9,
               "vestuario": 6,
@@ -1444,8 +1323,7 @@
               "penalidade": 0,
               "atividadeExterna": 7
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 10,
               "presenca": 3,
               "vestuario": 3,
@@ -1457,18 +1335,16 @@
               "penalidade": 6,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 49,
           "livrosPatrulha": 37,
           "materialPatrulha": 39,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 2,
               "vestuario": 1,
@@ -1480,8 +1356,7 @@
               "penalidade": 8,
               "atividadeExterna": 6
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 2,
               "presenca": 7,
               "vestuario": 3,
@@ -1493,8 +1368,7 @@
               "penalidade": 5,
               "atividadeExterna": 8
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 9,
               "presenca": 5,
               "vestuario": 9,
@@ -1506,8 +1380,7 @@
               "penalidade": 5,
               "atividadeExterna": 4
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 10,
               "presenca": 5,
               "vestuario": 7,
@@ -1519,8 +1392,7 @@
               "penalidade": 5,
               "atividadeExterna": 9
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 1,
               "presenca": 1,
               "vestuario": 2,
@@ -1532,26 +1404,22 @@
               "penalidade": 4,
               "atividadeExterna": 3
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-03": {
     "nome": "Março 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 14,
           "livrosPatrulha": 3,
           "materialPatrulha": 15,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 4,
               "vestuario": 7,
@@ -1563,8 +1431,7 @@
               "penalidade": 7,
               "atividadeExterna": 10
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 8,
               "presenca": 8,
               "vestuario": 5,
@@ -1576,8 +1443,7 @@
               "penalidade": 5,
               "atividadeExterna": 4
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 3,
               "presenca": 4,
               "vestuario": 5,
@@ -1589,8 +1455,7 @@
               "penalidade": 9,
               "atividadeExterna": 10
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 6,
               "presenca": 9,
               "vestuario": 5,
@@ -1602,8 +1467,7 @@
               "penalidade": 9,
               "atividadeExterna": 9
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 2,
               "presenca": 4,
               "vestuario": 5,
@@ -1615,18 +1479,16 @@
               "penalidade": 9,
               "atividadeExterna": 2
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 35,
           "livrosPatrulha": 12,
           "materialPatrulha": 14,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 5,
               "presenca": 10,
               "vestuario": 6,
@@ -1638,8 +1500,7 @@
               "penalidade": 0,
               "atividadeExterna": 4
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 5,
               "vestuario": 8,
@@ -1651,8 +1512,7 @@
               "penalidade": 10,
               "atividadeExterna": 9
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 4,
               "presenca": 8,
               "vestuario": 7,
@@ -1664,8 +1524,7 @@
               "penalidade": 1,
               "atividadeExterna": 7
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 3,
               "presenca": 2,
               "vestuario": 5,
@@ -1677,8 +1536,7 @@
               "penalidade": 7,
               "atividadeExterna": 3
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 3,
               "presenca": 3,
               "vestuario": 7,
@@ -1690,18 +1548,16 @@
               "penalidade": 6,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 23,
           "livrosPatrulha": 2,
           "materialPatrulha": 40,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 2,
               "presenca": 8,
               "vestuario": 4,
@@ -1713,8 +1569,7 @@
               "penalidade": 7,
               "atividadeExterna": 1
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 2,
               "vestuario": 0,
@@ -1726,8 +1581,7 @@
               "penalidade": 2,
               "atividadeExterna": 3
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 9,
               "presenca": 7,
               "vestuario": 6,
@@ -1739,8 +1593,7 @@
               "penalidade": 8,
               "atividadeExterna": 0
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 2,
               "presenca": 6,
               "vestuario": 10,
@@ -1752,8 +1605,7 @@
               "penalidade": 10,
               "atividadeExterna": 5
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 7,
               "presenca": 5,
               "vestuario": 6,
@@ -1765,18 +1617,16 @@
               "penalidade": 10,
               "atividadeExterna": 9
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 29,
           "livrosPatrulha": 7,
           "materialPatrulha": 35,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 9,
               "vestuario": 4,
@@ -1788,8 +1638,7 @@
               "penalidade": 7,
               "atividadeExterna": 3
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 6,
               "vestuario": 9,
@@ -1801,8 +1650,7 @@
               "penalidade": 4,
               "atividadeExterna": 9
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 6,
               "presenca": 3,
               "vestuario": 0,
@@ -1814,8 +1662,7 @@
               "penalidade": 2,
               "atividadeExterna": 6
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 0,
               "presenca": 8,
               "vestuario": 8,
@@ -1827,8 +1674,7 @@
               "penalidade": 4,
               "atividadeExterna": 4
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 5,
               "presenca": 1,
               "vestuario": 6,
@@ -1840,26 +1686,22 @@
               "penalidade": 8,
               "atividadeExterna": 6
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-04": {
     "nome": "Abril 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 30,
           "livrosPatrulha": 4,
           "materialPatrulha": 36,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 6,
               "vestuario": 9,
@@ -1871,8 +1713,7 @@
               "penalidade": 5,
               "atividadeExterna": 9
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 7,
               "presenca": 6,
               "vestuario": 4,
@@ -1884,8 +1725,7 @@
               "penalidade": 8,
               "atividadeExterna": 6
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 2,
               "presenca": 4,
               "vestuario": 3,
@@ -1897,8 +1737,7 @@
               "penalidade": 3,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 1,
               "presenca": 10,
               "vestuario": 0,
@@ -1910,8 +1749,7 @@
               "penalidade": 2,
               "atividadeExterna": 6
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 4,
               "presenca": 3,
               "vestuario": 2,
@@ -1923,18 +1761,16 @@
               "penalidade": 0,
               "atividadeExterna": 8
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 39,
           "livrosPatrulha": 3,
           "materialPatrulha": 45,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 1,
               "presenca": 6,
               "vestuario": 10,
@@ -1946,8 +1782,7 @@
               "penalidade": 2,
               "atividadeExterna": 2
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 9,
               "presenca": 0,
               "vestuario": 5,
@@ -1959,8 +1794,7 @@
               "penalidade": 7,
               "atividadeExterna": 6
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 0,
               "presenca": 8,
               "vestuario": 1,
@@ -1972,8 +1806,7 @@
               "penalidade": 7,
               "atividadeExterna": 7
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 8,
               "presenca": 3,
               "vestuario": 7,
@@ -1985,8 +1818,7 @@
               "penalidade": 8,
               "atividadeExterna": 5
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 5,
               "presenca": 8,
               "vestuario": 1,
@@ -1998,18 +1830,16 @@
               "penalidade": 10,
               "atividadeExterna": 6
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 3,
           "livrosPatrulha": 28,
           "materialPatrulha": 24,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 2,
               "presenca": 8,
               "vestuario": 9,
@@ -2021,8 +1851,7 @@
               "penalidade": 10,
               "atividadeExterna": 4
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 4,
               "presenca": 1,
               "vestuario": 7,
@@ -2034,8 +1863,7 @@
               "penalidade": 6,
               "atividadeExterna": 4
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 6,
               "presenca": 7,
               "vestuario": 5,
@@ -2047,8 +1875,7 @@
               "penalidade": 9,
               "atividadeExterna": 6
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 0,
               "presenca": 9,
               "vestuario": 9,
@@ -2060,8 +1887,7 @@
               "penalidade": 3,
               "atividadeExterna": 6
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 7,
               "presenca": 0,
               "vestuario": 6,
@@ -2073,18 +1899,16 @@
               "penalidade": 7,
               "atividadeExterna": 6
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 1,
           "livrosPatrulha": 27,
           "materialPatrulha": 31,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 8,
               "presenca": 6,
               "vestuario": 0,
@@ -2096,8 +1920,7 @@
               "penalidade": 8,
               "atividadeExterna": 1
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 1,
               "presenca": 4,
               "vestuario": 8,
@@ -2109,8 +1932,7 @@
               "penalidade": 0,
               "atividadeExterna": 1
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 8,
               "vestuario": 9,
@@ -2122,8 +1944,7 @@
               "penalidade": 7,
               "atividadeExterna": 9
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 9,
               "presenca": 2,
               "vestuario": 2,
@@ -2135,8 +1956,7 @@
               "penalidade": 9,
               "atividadeExterna": 2
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 9,
               "presenca": 4,
               "vestuario": 4,
@@ -2148,26 +1968,22 @@
               "penalidade": 1,
               "atividadeExterna": 6
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-05": {
     "nome": "Maio 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 10,
           "livrosPatrulha": 23,
           "materialPatrulha": 38,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 6,
               "vestuario": 1,
@@ -2179,8 +1995,7 @@
               "penalidade": 1,
               "atividadeExterna": 5
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 7,
               "vestuario": 4,
@@ -2192,8 +2007,7 @@
               "penalidade": 0,
               "atividadeExterna": 1
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 8,
               "presenca": 7,
               "vestuario": 9,
@@ -2205,8 +2019,7 @@
               "penalidade": 7,
               "atividadeExterna": 5
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 2,
               "presenca": 10,
               "vestuario": 1,
@@ -2218,8 +2031,7 @@
               "penalidade": 5,
               "atividadeExterna": 2
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 4,
               "presenca": 8,
               "vestuario": 4,
@@ -2231,18 +2043,16 @@
               "penalidade": 6,
               "atividadeExterna": 5
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 14,
           "livrosPatrulha": 4,
           "materialPatrulha": 41,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 7,
               "presenca": 5,
               "vestuario": 7,
@@ -2254,8 +2064,7 @@
               "penalidade": 10,
               "atividadeExterna": 3
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 2,
               "presenca": 0,
               "vestuario": 2,
@@ -2267,8 +2076,7 @@
               "penalidade": 4,
               "atividadeExterna": 4
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 7,
               "presenca": 8,
               "vestuario": 2,
@@ -2280,8 +2088,7 @@
               "penalidade": 7,
               "atividadeExterna": 6
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 2,
               "presenca": 7,
               "vestuario": 1,
@@ -2293,8 +2100,7 @@
               "penalidade": 10,
               "atividadeExterna": 5
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 8,
               "presenca": 3,
               "vestuario": 6,
@@ -2306,18 +2112,16 @@
               "penalidade": 4,
               "atividadeExterna": 5
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 8,
           "livrosPatrulha": 37,
           "materialPatrulha": 5,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 2,
               "presenca": 2,
               "vestuario": 5,
@@ -2329,8 +2133,7 @@
               "penalidade": 7,
               "atividadeExterna": 7
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 1,
               "vestuario": 1,
@@ -2342,8 +2145,7 @@
               "penalidade": 1,
               "atividadeExterna": 1
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 6,
               "vestuario": 8,
@@ -2355,8 +2157,7 @@
               "penalidade": 2,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 10,
               "presenca": 9,
               "vestuario": 4,
@@ -2368,8 +2169,7 @@
               "penalidade": 8,
               "atividadeExterna": 3
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 10,
               "presenca": 4,
               "vestuario": 5,
@@ -2381,18 +2181,16 @@
               "penalidade": 8,
               "atividadeExterna": 9
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 15,
           "livrosPatrulha": 38,
           "materialPatrulha": 42,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 10,
               "presenca": 1,
               "vestuario": 7,
@@ -2404,8 +2202,7 @@
               "penalidade": 7,
               "atividadeExterna": 2
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 2,
               "presenca": 6,
               "vestuario": 8,
@@ -2417,8 +2214,7 @@
               "penalidade": 6,
               "atividadeExterna": 7
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 8,
               "presenca": 3,
               "vestuario": 4,
@@ -2430,8 +2226,7 @@
               "penalidade": 9,
               "atividadeExterna": 9
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 7,
               "presenca": 7,
               "vestuario": 5,
@@ -2443,8 +2238,7 @@
               "penalidade": 10,
               "atividadeExterna": 1
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 5,
               "presenca": 9,
               "vestuario": 1,
@@ -2456,26 +2250,22 @@
               "penalidade": 4,
               "atividadeExterna": 5
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-06": {
     "nome": "Junho 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 46,
           "livrosPatrulha": 37,
           "materialPatrulha": 2,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 7,
               "presenca": 2,
               "vestuario": 3,
@@ -2487,8 +2277,7 @@
               "penalidade": 2,
               "atividadeExterna": 1
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 6,
               "presenca": 5,
               "vestuario": 9,
@@ -2500,8 +2289,7 @@
               "penalidade": 9,
               "atividadeExterna": 2
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 7,
               "vestuario": 8,
@@ -2513,8 +2301,7 @@
               "penalidade": 1,
               "atividadeExterna": 8
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 7,
               "presenca": 4,
               "vestuario": 4,
@@ -2526,8 +2313,7 @@
               "penalidade": 1,
               "atividadeExterna": 6
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 7,
               "presenca": 3,
               "vestuario": 7,
@@ -2539,18 +2325,16 @@
               "penalidade": 9,
               "atividadeExterna": 10
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 35,
           "livrosPatrulha": 31,
           "materialPatrulha": 7,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 6,
               "presenca": 5,
               "vestuario": 10,
@@ -2562,8 +2346,7 @@
               "penalidade": 4,
               "atividadeExterna": 3
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 4,
               "presenca": 0,
               "vestuario": 2,
@@ -2575,8 +2358,7 @@
               "penalidade": 3,
               "atividadeExterna": 3
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 9,
               "vestuario": 0,
@@ -2588,8 +2370,7 @@
               "penalidade": 9,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 2,
               "presenca": 4,
               "vestuario": 9,
@@ -2601,8 +2382,7 @@
               "penalidade": 3,
               "atividadeExterna": 2
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 1,
               "presenca": 0,
               "vestuario": 5,
@@ -2614,18 +2394,16 @@
               "penalidade": 1,
               "atividadeExterna": 7
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 6,
           "livrosPatrulha": 6,
           "materialPatrulha": 8,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 2,
               "presenca": 4,
               "vestuario": 3,
@@ -2637,8 +2415,7 @@
               "penalidade": 0,
               "atividadeExterna": 4
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 7,
               "presenca": 7,
               "vestuario": 5,
@@ -2650,8 +2427,7 @@
               "penalidade": 8,
               "atividadeExterna": 9
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 6,
               "presenca": 0,
               "vestuario": 4,
@@ -2663,8 +2439,7 @@
               "penalidade": 2,
               "atividadeExterna": 0
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 5,
               "presenca": 0,
               "vestuario": 4,
@@ -2676,8 +2451,7 @@
               "penalidade": 2,
               "atividadeExterna": 8
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 3,
               "presenca": 8,
               "vestuario": 0,
@@ -2689,18 +2463,16 @@
               "penalidade": 8,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 4,
           "livrosPatrulha": 50,
           "materialPatrulha": 2,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 10,
               "presenca": 5,
               "vestuario": 1,
@@ -2712,8 +2484,7 @@
               "penalidade": 4,
               "atividadeExterna": 9
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 6,
               "presenca": 9,
               "vestuario": 3,
@@ -2725,8 +2496,7 @@
               "penalidade": 4,
               "atividadeExterna": 5
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 4,
               "vestuario": 4,
@@ -2738,8 +2508,7 @@
               "penalidade": 3,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 6,
               "presenca": 7,
               "vestuario": 1,
@@ -2751,8 +2520,7 @@
               "penalidade": 1,
               "atividadeExterna": 2
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 1,
               "presenca": 4,
               "vestuario": 7,
@@ -2764,26 +2532,22 @@
               "penalidade": 0,
               "atividadeExterna": 2
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-07": {
     "nome": "Julho 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 35,
           "livrosPatrulha": 1,
           "materialPatrulha": 38,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 4,
               "presenca": 8,
               "vestuario": 3,
@@ -2795,8 +2559,7 @@
               "penalidade": 5,
               "atividadeExterna": 10
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 2,
               "presenca": 4,
               "vestuario": 9,
@@ -2808,8 +2571,7 @@
               "penalidade": 4,
               "atividadeExterna": 5
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 5,
               "presenca": 2,
               "vestuario": 1,
@@ -2821,8 +2583,7 @@
               "penalidade": 9,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 7,
               "presenca": 0,
               "vestuario": 5,
@@ -2834,8 +2595,7 @@
               "penalidade": 5,
               "atividadeExterna": 9
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 4,
               "presenca": 0,
               "vestuario": 9,
@@ -2847,18 +2607,16 @@
               "penalidade": 8,
               "atividadeExterna": 9
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 1,
           "livrosPatrulha": 18,
           "materialPatrulha": 13,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 1,
               "presenca": 1,
               "vestuario": 6,
@@ -2870,8 +2628,7 @@
               "penalidade": 3,
               "atividadeExterna": 1
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 2,
               "presenca": 4,
               "vestuario": 1,
@@ -2883,8 +2640,7 @@
               "penalidade": 4,
               "atividadeExterna": 8
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 4,
               "presenca": 4,
               "vestuario": 2,
@@ -2896,8 +2652,7 @@
               "penalidade": 9,
               "atividadeExterna": 8
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 7,
               "presenca": 6,
               "vestuario": 6,
@@ -2909,8 +2664,7 @@
               "penalidade": 10,
               "atividadeExterna": 0
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 8,
               "presenca": 4,
               "vestuario": 9,
@@ -2922,18 +2676,16 @@
               "penalidade": 2,
               "atividadeExterna": 0
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 35,
           "materialPatrulha": 26,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 7,
               "presenca": 10,
               "vestuario": 9,
@@ -2945,8 +2697,7 @@
               "penalidade": 1,
               "atividadeExterna": 3
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 4,
               "presenca": 10,
               "vestuario": 4,
@@ -2958,8 +2709,7 @@
               "penalidade": 4,
               "atividadeExterna": 8
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 3,
               "presenca": 1,
               "vestuario": 7,
@@ -2971,8 +2721,7 @@
               "penalidade": 9,
               "atividadeExterna": 9
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 4,
               "presenca": 9,
               "vestuario": 9,
@@ -2984,8 +2733,7 @@
               "penalidade": 3,
               "atividadeExterna": 7
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 2,
               "presenca": 6,
               "vestuario": 0,
@@ -2997,18 +2745,16 @@
               "penalidade": 1,
               "atividadeExterna": 9
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 16,
           "livrosPatrulha": 38,
           "materialPatrulha": 33,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 9,
               "presenca": 6,
               "vestuario": 4,
@@ -3020,8 +2766,7 @@
               "penalidade": 4,
               "atividadeExterna": 7
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 3,
               "presenca": 6,
               "vestuario": 7,
@@ -3033,8 +2778,7 @@
               "penalidade": 8,
               "atividadeExterna": 5
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 2,
               "presenca": 6,
               "vestuario": 3,
@@ -3046,8 +2790,7 @@
               "penalidade": 3,
               "atividadeExterna": 9
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 8,
               "presenca": 7,
               "vestuario": 8,
@@ -3059,8 +2802,7 @@
               "penalidade": 5,
               "atividadeExterna": 3
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 2,
               "presenca": 6,
               "vestuario": 10,
@@ -3072,26 +2814,22 @@
               "penalidade": 4,
               "atividadeExterna": 2
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-08": {
     "nome": "Agosto 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 3,
           "livrosPatrulha": 48,
           "materialPatrulha": 42,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 2,
               "presenca": 4,
               "vestuario": 2,
@@ -3103,8 +2841,7 @@
               "penalidade": 7,
               "atividadeExterna": 5
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 7,
               "presenca": 5,
               "vestuario": 5,
@@ -3116,8 +2853,7 @@
               "penalidade": 2,
               "atividadeExterna": 9
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 9,
               "presenca": 10,
               "vestuario": 3,
@@ -3129,8 +2865,7 @@
               "penalidade": 5,
               "atividadeExterna": 10
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 6,
               "presenca": 3,
               "vestuario": 6,
@@ -3142,8 +2877,7 @@
               "penalidade": 6,
               "atividadeExterna": 6
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 1,
               "presenca": 1,
               "vestuario": 9,
@@ -3155,18 +2889,16 @@
               "penalidade": 3,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 26,
           "livrosPatrulha": 20,
           "materialPatrulha": 32,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 5,
               "presenca": 9,
               "vestuario": 3,
@@ -3178,8 +2910,7 @@
               "penalidade": 2,
               "atividadeExterna": 10
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 0,
               "presenca": 6,
               "vestuario": 4,
@@ -3191,8 +2922,7 @@
               "penalidade": 6,
               "atividadeExterna": 7
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 2,
               "presenca": 2,
               "vestuario": 5,
@@ -3204,8 +2934,7 @@
               "penalidade": 3,
               "atividadeExterna": 6
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 5,
               "presenca": 4,
               "vestuario": 5,
@@ -3217,8 +2946,7 @@
               "penalidade": 9,
               "atividadeExterna": 1
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 3,
               "presenca": 2,
               "vestuario": 9,
@@ -3230,18 +2958,16 @@
               "penalidade": 7,
               "atividadeExterna": 1
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 22,
           "livrosPatrulha": 44,
           "materialPatrulha": 18,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 10,
               "presenca": 2,
               "vestuario": 7,
@@ -3253,8 +2979,7 @@
               "penalidade": 1,
               "atividadeExterna": 10
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 5,
               "presenca": 6,
               "vestuario": 2,
@@ -3266,8 +2991,7 @@
               "penalidade": 1,
               "atividadeExterna": 5
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 9,
               "vestuario": 10,
@@ -3279,8 +3003,7 @@
               "penalidade": 4,
               "atividadeExterna": 7
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 2,
               "presenca": 8,
               "vestuario": 10,
@@ -3292,8 +3015,7 @@
               "penalidade": 7,
               "atividadeExterna": 10
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 7,
               "presenca": 7,
               "vestuario": 7,
@@ -3305,18 +3027,16 @@
               "penalidade": 7,
               "atividadeExterna": 6
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 23,
           "livrosPatrulha": 48,
           "materialPatrulha": 6,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 2,
               "presenca": 7,
               "vestuario": 5,
@@ -3328,8 +3048,7 @@
               "penalidade": 5,
               "atividadeExterna": 7
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 4,
               "presenca": 6,
               "vestuario": 3,
@@ -3341,8 +3060,7 @@
               "penalidade": 2,
               "atividadeExterna": 2
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 5,
               "presenca": 6,
               "vestuario": 0,
@@ -3354,8 +3072,7 @@
               "penalidade": 8,
               "atividadeExterna": 9
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 8,
               "presenca": 6,
               "vestuario": 2,
@@ -3367,8 +3084,7 @@
               "penalidade": 8,
               "atividadeExterna": 4
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 6,
               "presenca": 8,
               "vestuario": 9,
@@ -3380,26 +3096,22 @@
               "penalidade": 7,
               "atividadeExterna": 8
             }
-          ]
+          }
         }
       }
-    ]
-  }
-}
-{
+    }
+  },
   "2017-09": {
     "nome": "Setembro 2017",
     "maxPontos": 600,
-    "patrulha": [
-      {
-        "idPatrulha": "tirano",
+    "patrulha": {
+      "tirano": {
         "pontos": {
           "cantoPatrulhaVirtual": 24,
           "livrosPatrulha": 34,
           "materialPatrulha": 2,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 8,
               "presenca": 0,
               "vestuario": 9,
@@ -3411,8 +3123,7 @@
               "penalidade": 4,
               "atividadeExterna": 8
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 1,
               "presenca": 9,
               "vestuario": 4,
@@ -3424,8 +3135,7 @@
               "penalidade": 10,
               "atividadeExterna": 3
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 3,
               "presenca": 8,
               "vestuario": 3,
@@ -3437,8 +3147,7 @@
               "penalidade": 4,
               "atividadeExterna": 7
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 6,
               "presenca": 8,
               "vestuario": 0,
@@ -3450,8 +3159,7 @@
               "penalidade": 5,
               "atividadeExterna": 1
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 3,
               "presenca": 9,
               "vestuario": 8,
@@ -3463,18 +3171,16 @@
               "penalidade": 0,
               "atividadeExterna": 3
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "tds",
+      "tds": {
         "pontos": {
           "cantoPatrulhaVirtual": 9,
           "livrosPatrulha": 23,
           "materialPatrulha": 29,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 3,
               "presenca": 7,
               "vestuario": 8,
@@ -3486,8 +3192,7 @@
               "penalidade": 1,
               "atividadeExterna": 1
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 6,
               "presenca": 1,
               "vestuario": 3,
@@ -3499,8 +3204,7 @@
               "penalidade": 6,
               "atividadeExterna": 4
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 1,
               "presenca": 4,
               "vestuario": 10,
@@ -3512,8 +3216,7 @@
               "penalidade": 5,
               "atividadeExterna": 3
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 9,
               "presenca": 2,
               "vestuario": 8,
@@ -3525,8 +3228,7 @@
               "penalidade": 7,
               "atividadeExterna": 6
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 9,
               "presenca": 3,
               "vestuario": 0,
@@ -3538,18 +3240,16 @@
               "penalidade": 6,
               "atividadeExterna": 5
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "titano",
+      "titano": {
         "pontos": {
           "cantoPatrulhaVirtual": 43,
           "livrosPatrulha": 33,
           "materialPatrulha": 5,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 1,
               "presenca": 0,
               "vestuario": 1,
@@ -3561,8 +3261,7 @@
               "penalidade": 0,
               "atividadeExterna": 4
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 3,
               "presenca": 2,
               "vestuario": 1,
@@ -3574,8 +3273,7 @@
               "penalidade": 4,
               "atividadeExterna": 6
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 9,
               "presenca": 5,
               "vestuario": 4,
@@ -3587,8 +3285,7 @@
               "penalidade": 10,
               "atividadeExterna": 0
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 6,
               "presenca": 8,
               "vestuario": 2,
@@ -3600,8 +3297,7 @@
               "penalidade": 3,
               "atividadeExterna": 0
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 3,
               "presenca": 9,
               "vestuario": 10,
@@ -3613,18 +3309,16 @@
               "penalidade": 2,
               "atividadeExterna": 9
             }
-          ]
+          }
         }
       },
-      {
-        "idPatrulha": "triceraptor",
+      "triceraptor": {
         "pontos": {
           "cantoPatrulhaVirtual": 47,
           "livrosPatrulha": 27,
           "materialPatrulha": 16,
-          "porDia": [
-            {
-              "id": "02",
+          "dia": {
+            "02": {
               "pontualidade": 3,
               "presenca": 8,
               "vestuario": 3,
@@ -3636,8 +3330,7 @@
               "penalidade": 4,
               "atividadeExterna": 9
             },
-            {
-              "id": "09",
+            "09": {
               "pontualidade": 9,
               "presenca": 3,
               "vestuario": 9,
@@ -3649,8 +3342,7 @@
               "penalidade": 1,
               "atividadeExterna": 2
             },
-            {
-              "id": "16",
+            "16": {
               "pontualidade": 6,
               "presenca": 8,
               "vestuario": 0,
@@ -3662,8 +3354,7 @@
               "penalidade": 2,
               "atividadeExterna": 1
             },
-            {
-              "id": "23",
+            "23": {
               "pontualidade": 3,
               "presenca": 9,
               "vestuario": 7,
@@ -3675,8 +3366,7 @@
               "penalidade": 9,
               "atividadeExterna": 7
             },
-            {
-              "id": "30",
+            "30": {
               "pontualidade": 10,
               "presenca": 2,
               "vestuario": 1,
@@ -3688,9 +3378,9 @@
               "penalidade": 7,
               "atividadeExterna": 3
             }
-          ]
+          }
         }
       }
-    ]
+    }
   }
 }

@@ -1,2 +1,4 @@
-jq '{(.id): del(.id)}' ciclos/*-*.json | jq '.' > api/ciclos.json
-
+cat ciclos/*-*.json \
+| jq -s 'reduce .[] as $item ({}; . + $item)' \
+| jq '.' \
+> api/ciclos.json
