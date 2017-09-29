@@ -1,3 +1,4 @@
+#!/bin/bash
 maxCiclos=$1
 if [ "a$maxCiclos" == "a" ]; then
 	maxCiclos=12
