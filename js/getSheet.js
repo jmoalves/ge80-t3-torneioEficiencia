@@ -41,12 +41,12 @@ for (var book in books) {
         var sheetUrl = bookUrl + "/values/" + sheets[sheet] + "!" + range + "?majorDimension=ROWS&key=" + apy_key
         var ciclo = book + "-" + sheet;
         var cicloNome = sheets[sheet] + " " + book;
-        var filename = ciclo + ".json";
+        var filename = "sheet/" + ciclo + ".json";
         obterPlanilha(sheetUrl, ciclo, cicloNome, filename);
     }
 }
 
-function obterPlanilha(sheetUrl, filename) {
+function obterPlanilha(sheetUrl, ciclo, cicloNome, filename) {
     console.log("URL: " + sheetUrl);
 
     https.get(encodeURI(sheetUrl), (res) => {
@@ -294,7 +294,7 @@ function obtemDia(linha) {
 }
 
 function gravarCiclo(ciclo, cicloObj) {
-    var filename = 'ciclo-' + ciclo + '.json';
+    var filename = "ciclos/" + ciclo + '.json';
     fs.writeFile(filename, JSON.stringify(cicloObj, null, 3), (err) => {
         if (err) throw err;
     });
