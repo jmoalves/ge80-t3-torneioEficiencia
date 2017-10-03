@@ -129,7 +129,9 @@ function obterCiclo(ciclo, cicloNome, json) {
                     pontos: {
                         cantoPatrulhaVirtual: 0,
                         livrosPatrulha: 0,
-                        materialPatrulha: 0
+                        materialPatrulha: 0,
+
+                        dia: {}
                     }
                 };
             }
@@ -141,7 +143,7 @@ function obterCiclo(ciclo, cicloNome, json) {
                 }
 
                 // console.log("DIA: " + dia);
-                patrulhaObj.pontos[dia] = {
+                patrulhaObj.pontos.dia[dia] = {
                     pontualidade: 0,
                     presenca: 0,
                     vestuario: 0,
@@ -155,34 +157,34 @@ function obterCiclo(ciclo, cicloNome, json) {
                 };
 
                 if (linha[cabecalho.pontualidade] !== '')
-                    patrulhaObj.pontos[dia].pontualidade = Number(linha[cabecalho.pontualidade]);
+                    patrulhaObj.pontos.dia[dia].pontualidade = Number(linha[cabecalho.pontualidade]);
 
                 if (linha[cabecalho.presenca] !== '')
-                    patrulhaObj.pontos[dia].presenca = Number(linha[cabecalho.presenca]);
+                    patrulhaObj.pontos.dia[dia].presenca = Number(linha[cabecalho.presenca]);
 
                 if (linha[cabecalho.vestuario] !== '')
-                    patrulhaObj.pontos[dia].vestuario = Number(linha[cabecalho.vestuario]);
+                    patrulhaObj.pontos.dia[dia].vestuario = Number(linha[cabecalho.vestuario]);
 
                 if (linha[cabecalho.participacao] !== '')
-                    patrulhaObj.pontos[dia].participacao = Number(linha[cabecalho.participacao]);
+                    patrulhaObj.pontos.dia[dia].participacao = Number(linha[cabecalho.participacao]);
 
                 if (linha[cabecalho.espiritoEscoteiro] !== '')
-                    patrulhaObj.pontos[dia].espiritoEscoteiro = Number(linha[cabecalho.espiritoEscoteiro]);
+                    patrulhaObj.pontos.dia[dia].espiritoEscoteiro = Number(linha[cabecalho.espiritoEscoteiro]);
 
                 if (linha[cabecalho.jogoTecnico] !== '')
-                    patrulhaObj.pontos[dia].jogoTecnico = Number(linha[cabecalho.jogoTecnico]);
+                    patrulhaObj.pontos.dia[dia].jogoTecnico = Number(linha[cabecalho.jogoTecnico]);
 
                 if (linha[cabecalho.conquistas] !== '')
-                    patrulhaObj.pontos[dia].conquistas = Number(linha[cabecalho.conquistas]);
+                    patrulhaObj.pontos.dia[dia].conquistas = Number(linha[cabecalho.conquistas]);
 
                 if (linha[cabecalho.extras] !== '')
-                    patrulhaObj.pontos[dia].extras = Number(linha[cabecalho.extras]);
+                    patrulhaObj.pontos.dia[dia].extras = Number(linha[cabecalho.extras]);
 
                 if (linha[cabecalho.penalidade] !== '')
-                    patrulhaObj.pontos[dia].penalidade = Number(linha[cabecalho.penalidade]);
+                    patrulhaObj.pontos.dia[dia].penalidade = Number(linha[cabecalho.penalidade]);
 
                 if (linha[cabecalho.atividadeExterna] !== '')
-                    patrulhaObj.pontos[dia].atividadeExterna = Number(linha[cabecalho.atividadeExterna]);
+                    patrulhaObj.pontos.dia[dia].atividadeExterna = Number(linha[cabecalho.atividadeExterna]);
             }
 
             if (linha[cabecalho.cantoPatrulhaVirtual] && linha[cabecalho.cantoPatrulhaVirtual] !== '') {
