@@ -4,269 +4,277 @@
     "patrulha": {
       "tirano": {
         "pontos": {
-          "11": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "18": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "25": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 10,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "26": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "04": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "11": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "18": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "25": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 10,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "26": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "04": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "tds": {
         "pontos": {
-          "11": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 10,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "18": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "25": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 10,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "26": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "04": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "11": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 10,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "18": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "25": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 10,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "26": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "04": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "titano": {
         "pontos": {
-          "11": {
-            "pontualidade": 10,
-            "presenca": 8,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "18": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "25": {
-            "pontualidade": 10,
-            "presenca": 7,
-            "vestuario": 10,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 9,
-            "conquistas": 5,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "26": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "04": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "11": {
+              "pontualidade": 10,
+              "presenca": 8,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "18": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "25": {
+              "pontualidade": 10,
+              "presenca": 7,
+              "vestuario": 10,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 9,
+              "conquistas": 5,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "26": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "04": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "triceraptor": {
         "pontos": {
-          "11": {
-            "pontualidade": 10,
-            "presenca": 8,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "18": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 10,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "25": {
-            "pontualidade": 10,
-            "presenca": 10,
-            "vestuario": 10,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "26": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "04": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "11": {
+              "pontualidade": 10,
+              "presenca": 8,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "18": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 10,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "25": {
+              "pontualidade": 10,
+              "presenca": 10,
+              "vestuario": 10,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "26": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "04": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       }
@@ -277,269 +285,277 @@
     "patrulha": {
       "tirano": {
         "pontos": {
-          "15": {
-            "pontualidade": null,
-            "presenca": null,
-            "vestuario": null,
-            "participacao": null,
-            "espiritoEscoteiro": null,
-            "jogoTecnico": null,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "22": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "29": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "01": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "08": {
-            "pontualidade": 9,
-            "presenca": 8,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "15": {
+              "pontualidade": null,
+              "presenca": null,
+              "vestuario": null,
+              "participacao": null,
+              "espiritoEscoteiro": null,
+              "jogoTecnico": null,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "22": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "29": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "01": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "08": {
+              "pontualidade": 9,
+              "presenca": 8,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "tds": {
         "pontos": {
-          "15": {
-            "pontualidade": null,
-            "presenca": null,
-            "vestuario": null,
-            "participacao": null,
-            "espiritoEscoteiro": null,
-            "jogoTecnico": null,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "22": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "29": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "01": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "08": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "15": {
+              "pontualidade": null,
+              "presenca": null,
+              "vestuario": null,
+              "participacao": null,
+              "espiritoEscoteiro": null,
+              "jogoTecnico": null,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "22": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "29": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "01": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "08": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "titano": {
         "pontos": {
-          "15": {
-            "pontualidade": null,
-            "presenca": null,
-            "vestuario": null,
-            "participacao": null,
-            "espiritoEscoteiro": null,
-            "jogoTecnico": null,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "22": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "29": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "01": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "08": {
-            "pontualidade": 9,
-            "presenca": 8,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "15": {
+              "pontualidade": null,
+              "presenca": null,
+              "vestuario": null,
+              "participacao": null,
+              "espiritoEscoteiro": null,
+              "jogoTecnico": null,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "22": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "29": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "01": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "08": {
+              "pontualidade": 9,
+              "presenca": 8,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "triceraptor": {
         "pontos": {
-          "15": {
-            "pontualidade": null,
-            "presenca": null,
-            "vestuario": null,
-            "participacao": null,
-            "espiritoEscoteiro": null,
-            "jogoTecnico": null,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "22": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "29": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "01": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "08": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "15": {
+              "pontualidade": null,
+              "presenca": null,
+              "vestuario": null,
+              "participacao": null,
+              "espiritoEscoteiro": null,
+              "jogoTecnico": null,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "22": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "29": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "01": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "08": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       }
@@ -550,269 +566,277 @@
     "patrulha": {
       "tirano": {
         "pontos": {
-          "13": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "20": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 20,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "27": {
-            "pontualidade": 8,
-            "presenca": 8,
-            "vestuario": 8,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "06": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "07": {
-            "pontualidade": 8,
-            "presenca": 8,
-            "vestuario": 8,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "13": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "20": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 20,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "27": {
+              "pontualidade": 8,
+              "presenca": 8,
+              "vestuario": 8,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "06": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "07": {
+              "pontualidade": 8,
+              "presenca": 8,
+              "vestuario": 8,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "tds": {
         "pontos": {
-          "13": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "20": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "27": {
-            "pontualidade": 5,
-            "presenca": 5,
-            "vestuario": 5,
-            "participacao": 5,
-            "espiritoEscoteiro": 5,
-            "jogoTecnico": 5,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "06": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "07": {
-            "pontualidade": 8,
-            "presenca": 8,
-            "vestuario": 8,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "13": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "20": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "27": {
+              "pontualidade": 5,
+              "presenca": 5,
+              "vestuario": 5,
+              "participacao": 5,
+              "espiritoEscoteiro": 5,
+              "jogoTecnico": 5,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "06": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "07": {
+              "pontualidade": 8,
+              "presenca": 8,
+              "vestuario": 8,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "titano": {
         "pontos": {
-          "13": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "20": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "27": {
-            "pontualidade": 7,
-            "presenca": 7,
-            "vestuario": 7,
-            "participacao": 7,
-            "espiritoEscoteiro": 7,
-            "jogoTecnico": 7,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "06": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "07": {
-            "pontualidade": 7,
-            "presenca": 7,
-            "vestuario": 7,
-            "participacao": 7,
-            "espiritoEscoteiro": 7,
-            "jogoTecnico": 7,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "13": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "20": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "27": {
+              "pontualidade": 7,
+              "presenca": 7,
+              "vestuario": 7,
+              "participacao": 7,
+              "espiritoEscoteiro": 7,
+              "jogoTecnico": 7,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "06": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "07": {
+              "pontualidade": 7,
+              "presenca": 7,
+              "vestuario": 7,
+              "participacao": 7,
+              "espiritoEscoteiro": 7,
+              "jogoTecnico": 7,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "triceraptor": {
         "pontos": {
-          "13": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "20": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "27": {
-            "pontualidade": 7,
-            "presenca": 7,
-            "vestuario": 7,
-            "participacao": 7,
-            "espiritoEscoteiro": 7,
-            "jogoTecnico": 7,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "06": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "07": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "13": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "20": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "27": {
+              "pontualidade": 7,
+              "presenca": 7,
+              "vestuario": 7,
+              "participacao": 7,
+              "espiritoEscoteiro": 7,
+              "jogoTecnico": 7,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "06": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "07": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       }
@@ -823,221 +847,229 @@
     "patrulha": {
       "tirano": {
         "pontos": {
-          "10": {
-            "pontualidade": 10,
-            "presenca": 7,
-            "vestuario": 9,
-            "participacao": 10,
-            "espiritoEscoteiro": 10,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 7
-          },
-          "17": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "24": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 7
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "03": {
-            "pontualidade": 9,
-            "presenca": 7,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "10": {
+              "pontualidade": 10,
+              "presenca": 7,
+              "vestuario": 9,
+              "participacao": 10,
+              "espiritoEscoteiro": 10,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 7
+            },
+            "17": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "24": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 7
+            },
+            "03": {
+              "pontualidade": 9,
+              "presenca": 7,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "tds": {
         "pontos": {
-          "10": {
-            "pontualidade": 10,
-            "presenca": 7,
-            "vestuario": 9,
-            "participacao": 10,
-            "espiritoEscoteiro": 10,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 7
-          },
-          "17": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "24": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 7
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "03": {
-            "pontualidade": 9,
-            "presenca": 8,
-            "vestuario": 10,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "10": {
+              "pontualidade": 10,
+              "presenca": 7,
+              "vestuario": 9,
+              "participacao": 10,
+              "espiritoEscoteiro": 10,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 7
+            },
+            "17": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "24": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 7
+            },
+            "03": {
+              "pontualidade": 9,
+              "presenca": 8,
+              "vestuario": 10,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "titano": {
         "pontos": {
-          "10": {
-            "pontualidade": 10,
-            "presenca": 8,
-            "vestuario": 9,
-            "participacao": 10,
-            "espiritoEscoteiro": 10,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 8
-          },
-          "17": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "24": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 8
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "03": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "10": {
+              "pontualidade": 10,
+              "presenca": 8,
+              "vestuario": 9,
+              "participacao": 10,
+              "espiritoEscoteiro": 10,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 8
+            },
+            "17": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "24": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 8
+            },
+            "03": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "triceraptor": {
         "pontos": {
-          "10": {
-            "pontualidade": 10,
-            "presenca": 8,
-            "vestuario": 9,
-            "participacao": 10,
-            "espiritoEscoteiro": 10,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 8
-          },
-          "17": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 5,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "24": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 9
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "03": {
-            "pontualidade": 8,
-            "presenca": 9,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "10": {
+              "pontualidade": 10,
+              "presenca": 8,
+              "vestuario": 9,
+              "participacao": 10,
+              "espiritoEscoteiro": 10,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 8
+            },
+            "17": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 5,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "24": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 9
+            },
+            "03": {
+              "pontualidade": 8,
+              "presenca": 9,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       }
@@ -1048,245 +1080,253 @@
     "patrulha": {
       "tirano": {
         "pontos": {
-          "15": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 5,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "22": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 9
-          },
-          "26": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "29": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 10,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "08": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "15": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 5,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "22": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 9
+            },
+            "26": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "29": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 10,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "08": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "tds": {
         "pontos": {
-          "15": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 10,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "22": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 7
-          },
-          "26": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "29": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 10,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "08": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "15": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 10,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "22": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 7
+            },
+            "26": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "29": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 10,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "08": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "titano": {
         "pontos": {
-          "15": {
-            "pontualidade": 10,
-            "presenca": 8,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "22": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 8
-          },
-          "29": {
-            "pontualidade": 10,
-            "presenca": 7,
-            "vestuario": 10,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "08": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "15": {
+              "pontualidade": 10,
+              "presenca": 8,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "22": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 8
+            },
+            "29": {
+              "pontualidade": 10,
+              "presenca": 7,
+              "vestuario": 10,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "08": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "triceraptor": {
         "pontos": {
-          "15": {
-            "pontualidade": 10,
-            "presenca": 8,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "22": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 9
-          },
-          "29": {
-            "pontualidade": 10,
-            "presenca": 10,
-            "vestuario": 10,
-            "participacao": 8,
-            "espiritoEscoteiro": 8,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "08": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "15": {
+              "pontualidade": 10,
+              "presenca": 8,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "22": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 9
+            },
+            "29": {
+              "pontualidade": 10,
+              "presenca": 10,
+              "vestuario": 10,
+              "participacao": 8,
+              "espiritoEscoteiro": 8,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "08": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       }
@@ -1297,221 +1337,229 @@
     "patrulha": {
       "tirano": {
         "pontos": {
-          "12": {
-            "pontualidade": 10,
-            "presenca": 7,
-            "vestuario": 9,
-            "participacao": 10,
-            "espiritoEscoteiro": 10,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "20": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 7
-          },
-          "26": {
-            "pontualidade": 9,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "05": {
-            "pontualidade": 9,
-            "presenca": 7,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "12": {
+              "pontualidade": 10,
+              "presenca": 7,
+              "vestuario": 9,
+              "participacao": 10,
+              "espiritoEscoteiro": 10,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "20": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 7
+            },
+            "26": {
+              "pontualidade": 9,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "05": {
+              "pontualidade": 9,
+              "presenca": 7,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "tds": {
         "pontos": {
-          "12": {
-            "pontualidade": 10,
-            "presenca": 7,
-            "vestuario": 9,
-            "participacao": 10,
-            "espiritoEscoteiro": 10,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "20": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 5
-          },
-          "26": {
-            "pontualidade": 9,
-            "presenca": 7,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "05": {
-            "pontualidade": 9,
-            "presenca": 8,
-            "vestuario": 10,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "12": {
+              "pontualidade": 10,
+              "presenca": 7,
+              "vestuario": 9,
+              "participacao": 10,
+              "espiritoEscoteiro": 10,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "20": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 5
+            },
+            "26": {
+              "pontualidade": 9,
+              "presenca": 7,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "05": {
+              "pontualidade": 9,
+              "presenca": 8,
+              "vestuario": 10,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "titano": {
         "pontos": {
-          "12": {
-            "pontualidade": 10,
-            "presenca": 8,
-            "vestuario": 9,
-            "participacao": 10,
-            "espiritoEscoteiro": 10,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "20": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 7
-          },
-          "26": {
-            "pontualidade": 10,
-            "presenca": 7,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "05": {
-            "pontualidade": 9,
-            "presenca": 7,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "12": {
+              "pontualidade": 10,
+              "presenca": 8,
+              "vestuario": 9,
+              "participacao": 10,
+              "espiritoEscoteiro": 10,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "20": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 7
+            },
+            "26": {
+              "pontualidade": 10,
+              "presenca": 7,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "05": {
+              "pontualidade": 9,
+              "presenca": 7,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       },
       "triceraptor": {
         "pontos": {
-          "12": {
-            "pontualidade": 10,
-            "presenca": 8,
-            "vestuario": 9,
-            "participacao": 10,
-            "espiritoEscoteiro": 10,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
-          "20": {
-            "pontualidade": 0,
-            "presenca": 0,
-            "vestuario": 0,
-            "participacao": 0,
-            "espiritoEscoteiro": 0,
-            "jogoTecnico": 0,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 9
-          },
-          "26": {
-            "pontualidade": 10,
-            "presenca": 9,
-            "vestuario": 8,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 9,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
-          },
           "cantoPatrulhaVirtual": 0,
           "livrosPatrulha": 0,
           "materialPatrulha": 0,
-          "05": {
-            "pontualidade": 8,
-            "presenca": 9,
-            "vestuario": 9,
-            "participacao": 9,
-            "espiritoEscoteiro": 9,
-            "jogoTecnico": 8,
-            "conquistas": 0,
-            "extras": 0,
-            "penalidade": 0,
-            "atividadeExterna": 0
+          "dia": {
+            "12": {
+              "pontualidade": 10,
+              "presenca": 8,
+              "vestuario": 9,
+              "participacao": 10,
+              "espiritoEscoteiro": 10,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "20": {
+              "pontualidade": 0,
+              "presenca": 0,
+              "vestuario": 0,
+              "participacao": 0,
+              "espiritoEscoteiro": 0,
+              "jogoTecnico": 0,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 9
+            },
+            "26": {
+              "pontualidade": 10,
+              "presenca": 9,
+              "vestuario": 8,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 9,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            },
+            "05": {
+              "pontualidade": 8,
+              "presenca": 9,
+              "vestuario": 9,
+              "participacao": 9,
+              "espiritoEscoteiro": 9,
+              "jogoTecnico": 8,
+              "conquistas": 0,
+              "extras": 0,
+              "penalidade": 0,
+              "atividadeExterna": 0
+            }
           }
         }
       }
