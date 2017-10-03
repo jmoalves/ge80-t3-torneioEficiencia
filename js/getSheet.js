@@ -33,7 +33,7 @@ const sheets = {
 };
 
 const range = "A3:R50";
-const apy_key = "AIzaSyCQ0YSvBpIeV3RYXEJXT2_Y671_9yJqn80";
+const apy_key = fs.readFileSync(path.resolve(os.homedir(), ".googleApiKey"));
 
 for (var book in books) {
     var bookUrl = "https://sheets.googleapis.com/v4/spreadsheets/" + books[book];
@@ -41,7 +41,7 @@ for (var book in books) {
         var sheetUrl = bookUrl + "/values/" + sheets[sheet] + "!" + range + "?majorDimension=ROWS&key=" + apy_key
         var ciclo = book + "-" + sheet;
         var cicloNome = sheets[sheet] + " " + book;
-        var filename = "sheet/" + ciclo + ".json";
+        var filename = "sheets/" + ciclo + ".json";
         obterPlanilha(sheetUrl, ciclo, cicloNome, filename);
     }
 }
