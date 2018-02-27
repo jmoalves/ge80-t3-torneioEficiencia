@@ -277,27 +277,6 @@
                   }
                }
             }
-         },
-         "undefined": {
-            "pontos": {
-               "cantoPatrulhaVirtual": 0,
-               "livrosPatrulha": 0,
-               "materialPatrulha": 0,
-               "dia": {
-                  "30": {
-                     "pontualidade": null,
-                     "presenca": null,
-                     "vestuario": null,
-                     "participacao": null,
-                     "espiritoEscoteiro": null,
-                     "jogoTecnico": null,
-                     "conquistas": null,
-                     "extras": null,
-                     "penalidade": null,
-                     "atividadeExterna": null
-                  }
-               }
-            }
          }
       }
    }
