@@ -26,9 +26,9 @@ const sheets = {
     "06": "Junho",
     "07": "Julho",
     "08": "Agosto",
-    // "09": "Setembro",
-    // "10": "Outubro",
-    // "11": "Novembro",
+    "09": "Setembro",
+    "10": "Outubro",
+    "11": "Novembro",
     // "12": "Dezembro"
 };
 
@@ -50,15 +50,15 @@ function obterPlanilha(sheetUrl, ciclo, cicloNome, filename) {
     console.log("URL: " + sheetUrl);
 
     https.get(encodeURI(sheetUrl), (res) => {
-        if (res.statusCode !== 200) {
-            console.log(res.statusCode + ' for ' + sheetUrl);
-            return;
-        }
-
         res.on('error', (error) => {
             console.log('HTTP ERROR: ' + JSON.stringify(error, null, 3));
             return;
         });
+
+        if (res.statusCode !== 200) {
+            console.log(res.statusCode + ' for ' + sheetUrl);
+            return;
+        }
 
         console.log("GET " + filename);
         res.pipe(fs.createWriteStream(filename))
