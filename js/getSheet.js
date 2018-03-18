@@ -29,7 +29,7 @@ const sheets = {
     "09": "Setembro",
     "10": "Outubro",
     "11": "Novembro",
-    // "12": "Dezembro"
+    "12": "Dezembro"
 };
 
 const range = "A3:R50";
