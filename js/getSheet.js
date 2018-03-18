@@ -33,12 +33,14 @@ const sheets = {
 };
 
 const range = "A3:R50";
-const apy_key = fs.readFileSync(path.resolve(os.homedir(), ".googleApiKey"));
+const api_key = fs.readFileSync(path.resolve(os.homedir(), ".googleApiKey"));
+
+console.log("Using API_KEY " + api_key);
 
 for (var book in books) {
     var bookUrl = "https://sheets.googleapis.com/v4/spreadsheets/" + books[book];
     for (var sheet in sheets) {
-        var sheetUrl = bookUrl + "/values/" + sheets[sheet] + "!" + range + "?majorDimension=ROWS&key=" + apy_key
+        var sheetUrl = bookUrl + "/values/" + sheets[sheet] + "!" + range + "?majorDimension=ROWS&key=" + api_key
         var ciclo = book + "-" + sheet;
         var cicloNome = sheets[sheet] + " " + book;
         var filename = "sheets/" + ciclo + ".json";
@@ -104,6 +106,7 @@ function obterCiclo(ciclo, cicloNome, json) {
 
     var cicloObj = {};
     cicloObj[ciclo] = {
+        "id": ciclo,
         "nome": cicloNome,
         "patrulha": {}
     }
