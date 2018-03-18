@@ -33,7 +33,7 @@ const sheets = {
 };
 
 const range = "A3:R50";
-const api_key = fs.readFileSync(path.resolve(os.homedir(), ".googleApiKey"));
+const api_key = fs.readFileSync(path.resolve(os.homedir(), ".google/apiKey"));
 
 console.log("Using API_KEY " + api_key);
 
