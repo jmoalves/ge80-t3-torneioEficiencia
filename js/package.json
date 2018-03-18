@@ -1,0 +1,12 @@
+{
+  "name": "carregaDados",
+  "version": "0.0.1",
+  "main": "carregaDados.js",
+  "author": "João Mauricio Alves",
+  "license": "MIT",
+  "dependencies": {
+    "@firebase/app-types": "^0.1.2",
+    "firebase": "^4.11.0",
+    "firebase-admin": "^5.11.0"
+  }
+}
