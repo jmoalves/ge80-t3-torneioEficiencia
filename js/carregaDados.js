@@ -6,6 +6,10 @@ const os = require('os');
 const path = require('path');
 //
 
+// 3rdParty
+const base64 = require('js-base64').Base64;
+//
+
 // Firebase
 const firebase = require("firebase");
 // Required for side-effects
@@ -21,17 +25,41 @@ admin.initializeApp({
 var db = admin.firestore();
 //
 
-var anos = {};
+// carregaCiclos();
+carregaPatrulhas();
 
-var dir = 'ciclos';
-var files = fs.readdirSync(dir);
-for (let file of files) {
-    if (file.match(/\.json$/)) {
-        var ciclo = carregaCiclo(path.resolve(dir, file));
-        agrega(anos, ciclo);
+function carregaCiclos() {
+    var anos = {};
+
+    var dir = 'ciclos';
+    var files = fs.readdirSync(dir);
+    for (let file of files) {
+        if (file.match(/\.json$/)) {
+            var ciclo = carregaCiclo(path.resolve(dir, file));
+            agrega(anos, ciclo);
+        }
+    }
+    carregaAnos(anos);
+}
+
+function carregaPatrulhas() {
+    var dir = 'patrulhas';
+    var json = fs.readFileSync(path.resolve(dir, 'patrulhas.json'));
+
+    var patrulhas = JSON.parse(json);
+
+    for (let key in patrulhas) {
+        var avatar = fs.readFileSync(path.resolve(dir, key, 'avatar.jpg'));
+        var patrulha = patrulhas[key];
+        patrulha.avatar = base64.encode(avatar);
+
+        db.collection("ramos").doc("escoteiros").collection("patrulhas").doc(key).set(patrulha).then(() => {
+            console.log("PATRULHA: " + key + " inserida!");
+        }).catch((error) => {
+            console.log("Error: " + error);
+        });
     }
 }
-carregaAnos(anos);
 
 function carregaCiclo(filename) {
     console.log("");
